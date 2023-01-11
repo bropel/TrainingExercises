@@ -26,4 +26,3 @@ if (num1 === num2){
 } else {
     console.log('The numbers are not equal.');
 }
-
