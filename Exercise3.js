@@ -19,14 +19,14 @@ result = Number(result);
 let total = Number(result);
 console.log(`The total is ${total}.`);
 
-
-/*do {
+prompt('');
+do {
     let counter = 0;
     counter = prompt('Input another number: ');
     console.log('You entered: ' + counter);
     counter = Number(counter);
-
+  //prompt('');
     //total += counter;
     console.log('The new total is: ' + total);
     //break;
-} while (1>0);*/
+} while (1>0);
